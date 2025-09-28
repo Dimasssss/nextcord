@@ -2222,6 +2222,14 @@ User
     .. automethod:: typing
         :async-with:
 
+AvatarDecoration
+~~~~~~~~~~~~~~~~
+
+.. attributetable:: AvatarDecoration
+
+.. autoclass:: AvatarDecoration()
+    :members:
+
 Attachment
 ~~~~~~~~~~
 
